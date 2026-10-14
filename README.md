@@ -4,10 +4,16 @@ The main moto of this project was to make any spare webcam or a laptop as a secu
 Technology Used: 
 
 Python Programming language
+
 Python opencv module
 
 
+
 Responsibilities: 
+
 Making the spare cameras as a security device.
+
 Making sure that the users will be aware of any unwanted movement takes place.
+
 Cheapest security program .
+
